@@ -1,7 +1,12 @@
+//1
 
 function squareNumber(n){
     return n*n;
 }
+
+console.log(squareNumber(5));
+
+//2
 
 function sqaure(arr, cb){
     let newArr = []
